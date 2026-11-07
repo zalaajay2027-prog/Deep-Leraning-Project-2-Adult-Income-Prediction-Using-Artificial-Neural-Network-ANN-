@@ -466,43 +466,48 @@ The notebook includes various data analysis plots, training visualizations, and 
 
 ### 📊 Income Distribution
 
-![Income Distribution](screenshots/income_distribution.png)
+<img width="718" height="492" alt="image" src="https://github.com/user-attachments/assets/5541b955-c972-444b-9bb9-7dfc5df2dc42" />
+
 
 ### 🔥 Correlation Heatmap
+<img width="799" height="564" alt="image" src="https://github.com/user-attachments/assets/a4af1458-46d1-417f-a58d-37089a687d36" />
 
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
 ### 📉 ANN Training Curves
+<img width="1269" height="423" alt="Screenshot 2026-11-07 081314" src="https://github.com/user-attachments/assets/96f53450-a101-4290-9b86-c0a493f096f8" />
 
-![Training Curves](screenshots/training_curves.png)
+
 
 ### ⚡ Activation Function Comparison
 
-![Activation Comparison](screenshots/activation_comparison.png)
+<img width="931" height="639" alt="image" src="https://github.com/user-attachments/assets/1f711241-3797-4269-8b2e-4a4772ff72fc" />
 
 ### 🏗️ Weight Initialization Comparison
 
-![Initializer Comparison](screenshots/initializer_comparison.png)
+<img width="765" height="410" alt="image" src="https://github.com/user-attachments/assets/4e6c0c85-6b98-417b-ae9b-36824947f5db" />
+
 
 ### ⚖️ Loss Function Comparison
+<img width="807" height="389" alt="image" src="https://github.com/user-attachments/assets/21a22474-c093-4c66-bb94-7a62df40e35e" />
 
-![Loss Comparison](screenshots/loss_comparison.png)
 
 ### 🔄 Batch Normalization
+<img width="813" height="803" alt="image" src="https://github.com/user-attachments/assets/6a5a89c1-7fcb-4a65-a667-45323b7b6816" />
 
-![Batch Normalization](screenshots/batch_normalization.png)
 
 ### 🚀 Optimizer Comparison
 
-![Optimizer Comparison](screenshots/optimizer_comparison.png)
+<img width="807" height="385" alt="image" src="https://github.com/user-attachments/assets/c3e24050-1996-4058-bc84-22474f1cef04" />
+
 
 ### 🔲 Confusion Matrix
+<img width="416" height="356" alt="image" src="https://github.com/user-attachments/assets/6f1b2913-0a92-4365-8ea3-3f1555c8bd24" />
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ### 📈 ROC Curve
 
-![ROC Curve](screenshots/roc_curve.png)
+<img width="653" height="501" alt="image" src="https://github.com/user-attachments/assets/30885375-cd6a-4481-9523-0266e6f059c2" />
+
 
 📌 Add the actual screenshot files to the `screenshots/` folder using the exact filenames shown above. These image paths are placeholders until the files are added.
 
